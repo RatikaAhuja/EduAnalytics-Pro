@@ -119,3 +119,6 @@ EduPro_Instructor_Analysis/
 # EduAnalytics-Pro
 A data-driven framework for evaluating instructor and course quality on EduPro, shifting focus from learners to teaching effectiveness.
 >>>>>>> 28e07335f733ac830c34373c7ef42b29e6f97d22
+
+## 🚀 Live Demo
+Check out the live app here: [EduAnalytics Pro] https://eduanalytics-pro-avu5adyyuovdg7mswb8qtt.streamlit.app/
