@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 📊 EduAnalytics Pro — AI-Powered Instructor & Revenue Analytics Dashboard
+# 📊 EduAnalytics Pro — AI-Powered  Analytics Dashboard
 
 An interactive Business Intelligence dashboard built with **Streamlit** for analyzing an online education platform's courses, instructors, and transaction data — featuring automated business insights, instructor leaderboards, revenue forecasting, and machine learning predictions.
 
